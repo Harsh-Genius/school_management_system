@@ -1,0 +1,50 @@
+.about{
+    display: flex;
+    background:white;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.about div
+{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 5px;
+    border-color: black;
+    width:100%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin:10px;
+    padding: auto;
+}
+
+.about div h3 a
+{
+    cursor:hover;
+    color: black;
+    cursor: pointer;
+    align-items:end;
+    justify-content:end;
+    text-align: end;
+    margin-left: 1ex;
+}
+
+.about div h3 a i
+{
+    justify-content: end;
+    text-align: end;
+}
+
+a:hover i
+{
+    color: blue;
+}
+    
+

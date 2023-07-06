@@ -1,0 +1,79 @@
+.about{
+    display: flex;
+    background:white;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    }
+
+
+
+.about div
+{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 5px;
+    border-color: black;
+    width:50ex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin:10px;
+    padding: auto;
+}
+
+
+.container
+{
+    display: flex;
+    background:white;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height:auto; 
+    padding: 20px;  
+}
+
+.container div
+{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin:10px;
+    width: 60ex;;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 50px;
+
+}
+
+.container2
+{
+    display:flex;
+    background:;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height:; 
+    padding-top: 10ex;
+    justify-content: space-around;
+}
+
+.container2 div div
+{
+    align-items:;
+    text-align:center;
+    justify-content:;
+    margin:auto;
+    color:red;
+    width:auto;
+    padding: ;
+    background-color:white;
+}
+
+
